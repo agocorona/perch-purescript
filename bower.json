@@ -1,0 +1,28 @@
+{
+  "name": "perch",
+  "version": "0.0.0",
+  "authors": [
+    "Alberto G. Corona <agocorona@gmail.com>"
+  ],
+  "description": "DOM tree manipulation",
+  "main": "Perch",
+  "keywords": [
+    "DOM"
+  ],
+  "license": "MIT",
+  "homepage": "http:github.com/agocorona/haste-perch",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-foreign": "~0.2.0",
+    "purescript-maybe": "~0.2.1",
+    "purescript-monoid": "~0.1.4",
+    "purescript-strings": "~0.4.0",
+    "purescript-tuples": "~0.2.1"
+  }
+}
